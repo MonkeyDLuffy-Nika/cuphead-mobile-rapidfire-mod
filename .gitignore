@@ -1,0 +1,21 @@
+# Large Android APK packages (>100MB blocked by GitHub)
+*.apk
+*.idsig
+*.keystore
+
+# Python & Temporary Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Intermediate inspection scripts
+check_*.py
+inspect_*.py
+find_*.py
+view_*.py
+fast_download.py
+
+# Editor files
+.vscode/
+.idea/
