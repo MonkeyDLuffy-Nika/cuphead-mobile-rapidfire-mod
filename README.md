@@ -1,5 +1,10 @@
 # ☕ Cuphead Mobile: Rapid Fire Mod & Event Patcher
 
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge" alt="License: GPL v3" /></a>
+</p>
+
+
 [English](#english) | [Русский](#русский)
 
 ---
